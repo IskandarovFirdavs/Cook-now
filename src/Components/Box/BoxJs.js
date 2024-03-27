@@ -1,0 +1,272 @@
+export const BoxJs = [
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/images/recipes/2706/image_565/ispanskiy-gaspacho.jpg",
+    name: "Гаспачо",
+    Ttime: "5 минут",
+    quantity: "4 порций",
+    calories: "Калорийность: 57 kCal",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    a: "   https://youtu.be/KSbyRyZ_cSc",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/images/recipes/1506/1.jpg",
+    name: "Капустняк",
+    Ttime: "45 минут",
+    quantity: "7 порций",
+    calories: "Калорийность: 152 kCal",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    a: " https://youtu.be/GFMkMLArkUc",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/2802/image_732/nastoyashiy-miso-sup2_0x0_6f7.webp",
+    name: "Мисо",
+    Ttime: "30 минут",
+    quantity: "4 порций",
+    calories: "Калорийность: 112 kCal",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    a: "https://youtu.be/JKqWEAJlZNE",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/images/recipes/2700/vse-prosyat-dobavki-okroshka-na-kefire-i-ne-tolko-recept-ot-vsegda-vkusno2-low.jpg",
+    name: "Окрошка",
+    Ttime: "45 минут",
+    quantity: "6 порций",
+    calories: "Калорийность: 56 kCal",
+    a: "https://youtu.be/Flut67woetc ",
+    baxo: "https://i.etsystatic.com/36262552/r/il/9abf14/4458711660/il_fullxfull.4458711660_852s.jpg",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/images/recipes/1797/image_1130/1.jpg",
+    name: "Рассольник",
+    Ttime: "1 час 50 минут",
+    quantity: "8 порций",
+    calories: "Калорийность: 112 kCal",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    a: "https://youtu.be/1wEkUlSV-CU",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/1710/image_732/1_0x0_6f7.webp",
+    name: "Свекольник",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+
+    Ttime: "45 минут",
+    quantity: "8 порций",
+    calories: "Калорийность: 77 kCal",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+    a: "https://youtu.be/fjboGofox50",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/1694/image_732/1_0x0_6f7.webp",
+    name: "Солянка",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+
+    Ttime: "1 час 20 минут",
+    quantity: "10 порций ",
+    calories: "Калорийность: 69 kCal",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+    a: "https://youtu.be/wXiK9Qoce8A",
+  },
+
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/2404/image_732/schi-low_0x0_6f7.webp",
+    name: "Щи",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    Ttime: "2 часа",
+    quantity: "10 порций ",
+    calories: "Калорийность: 38 kCal",
+    a: "https://youtu.be/p7YHXGGBSB4",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+];
+
+export const MainListJS = [
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/1410/image_732/lyulya-kebab-recept_0x0_6f7.webp",
+    baxo: "https://i.etsystatic.com/36262552/r/il/9abf14/4458711660/il_fullxfull.4458711660_852s.jpg",
+    name: "Люля-кебаб",
+    Ttime: "2 час 30 минут",
+    quantity: "5 порций",
+    calories: "Калорийность: 235 kCal",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+    a: "https://youtu.be/I0b2N8GnNlY",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/1411/image_732/1_0x0_6f7.webp",
+    name: "Мусака",
+    Ttime: "1 час 50 минут",
+    quantity: "6 порций ",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    calories: "Калорийность: 120 kCal",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+    a: "https://youtu.be/qJW1wSDl9cw",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/1442/image_732/myaso-po-francuzski-recept_0x0_6f7.webp",
+    name: "Мясо по-француз..",
+    Ttime: "1 час 15 минут",
+    baxo: "https://i.etsystatic.com/36262552/r/il/9abf14/4458711660/il_fullxfull.4458711660_852s.jpg",
+    quantity: "6 порций",
+    calories: "Калорийность: 210 kCal",
+    a: "https://youtu.be/Uc_os_4ZPo0",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.mashed.com/img/gallery/cuts-of-steak-ranked-worst-to-best/intro-1655389692.jpg",
+    name: "Стейк",
+    baxo: "https://i.etsystatic.com/36262552/r/il/9abf14/4458711660/il_fullxfull.4458711660_852s.jpg",
+    Ttime: "35 минут",
+    quantity: "2 порций ",
+    calories: "Калорийность: 210 kCal",
+    a: "https://youtu.be/XyDP8gl4VsQ",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/2458/image_732/bif-lendstrem-low_0x0_6f7.webp",
+    name: "Бифштекс",
+    Ttime: "25 минут",
+    quantity: "4 порций",
+    calories: "Калорийность: 252 kCal",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    a: "https://youtu.be/pty65KPSMoU",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    rasm: "https://www.vsegdavkusno.ru/assets/cache_image/recipes/2506/image_732/buzhenina-low_0x0_6f7.webp",
+    name: "Буженина",
+    Ttime: "1 час 30 минут",
+    calories: "Калорийность: 223 kCal",
+    baxo: "https://t4.ftcdn.net/jpg/02/74/86/39/360_F_274863915_4JnfDXwTaTsjg5w5e7keElOipBswjAte.jpg",
+    a: "https://youtu.be/u187WbSeeCA",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://miro.medium.com/v2/resize:fit:1358/0*UxnVMQMIAowST-rp",
+    name: "Плов",
+    Ttime: "1 час 40 минут",
+    baxo: "https://i.etsystatic.com/36262552/r/il/9abf14/4458711660/il_fullxfull.4458711660_852s.jpg",
+    quantity: "8 порций",
+    calories: "Калорийность: 149 kCal",
+    a: "https://youtu.be/Cnesswm1RJI",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+  {
+    kalorimg: "https://cdn-icons-png.flaticon.com/512/5562/5562024.png",
+    portsiya: "https://cdn-icons-png.flaticon.com/512/3246/3246722.png",
+    rasm: "https://images.gastronom.ru/kC-L8fPLz4Tyg6GWVnkzvnDmU_qQ4NInaAgaHIv4hY8/pr:article-cover-image/g:ce/rs:auto:0:0:0/L2Ntcy9hbGwtaW1hZ2VzL2U3MmU4YTUwLTljYTEtNGJhNC05MTBmLTFkZTJiYjgxZGJmNy5qcGc",
+    name: "Табака",
+    baxo: "https://i.etsystatic.com/36262552/r/il/9abf14/4458711660/il_fullxfull.4458711660_852s.jpg",
+    Ttime: "50 минут",
+    quantity: "2 порций ",
+    calories: "Калорийность: 233 kCal",
+    a: "https://youtu.be/qWJP8o_Cy3Y",
+    time: "https://cdn3.iconfinder.com/data/icons/office-229/32/Jam-512.png",
+  },
+];
+
+export const BoxJs2 = [
+  {
+    src: "https://www.youtube.com/embed/Qu8rH1OWK5M",
+    title:
+      "Популярный ЧИЗКЕЙК. Нежный и вкусный десерт готовим дома. Рецепт от Всегда Вкусно.",
+  },
+  {
+    src: "https://www.youtube.com/embed/KEqpwpfFfhE",
+    title: "Just Need Chocolate and Milk Make This Delicious Dessert",
+  },
+  {
+    src: "https://www.youtube.com/embed/Mk4_v0AKR7o",
+    title: "6 Insanely Delicious Salmon Recipes",
+  },
+  {
+    src: "https://www.youtube.com/embed/oa-W3d0IKS8",
+    title:
+      "Это САМОЕ ВКУСНОЕ, что я когда-либо ел! Нет дрожжей Нет духовки! Каждый может сделать",
+  },
+  {
+    src: "https://www.youtube.com/embed/e9hnjRfde2g",
+    title:
+      "Лучший рецепт яичного пудинга (Супер богатый! Такой вкусный! Заварной пудинг | Домашний десерт)",
+  },
+  {
+    src: "https://www.youtube.com/embed/OzdqThvpMko",
+    title:
+      "The easiest way to make croissant! Why I didn&#39;t know this method before!",
+  },
+  {
+    src: "https://www.youtube.com/embed/3Z6TCicRLhs",
+    title:
+      "Найден новый способ приготовления пиццы с двойным сыром! Никакого замеса! Невероятно легко! Лучшая п",
+  },
+  {
+    src: "https://www.youtube.com/embed/-E_O2PwZpCc",
+    title: "Crispy French Fries &amp; Cheese Sauce",
+  },
+];
+export const BoxJs3 = [
+  {
+    src: "https://www.youtube.com/embed/ib20NUJZBx0",
+    title: "6 Top French Recipes You Need to Cook",
+  },
+  {
+    src: "https://www.youtube.com/embed/P_IOiCzMZmI",
+    title: "Easy chocolate cakes for two!",
+  },
+  {
+    src: "https://www.youtube.com/embed/Lw7EixBGu60",
+    title: "Chicken Francaise Recipe over 200 Million Views",
+  },
+  {
+    src: "https://www.youtube.com/embed/sdFCd4DgjDM",
+    title: "Шоколадный торт без духовки [Только 3 ингредиента]",
+  },
+  {
+    src: "https://www.youtube.com/embed/nkCEWTOb5rg",
+    title:
+      "Готовлю такую капусту с яйцами каждый день на завтрак, очень вкусно! # 250",
+  },
+  {
+    src: "https://www.youtube.com/embed/-6oKEiI6_N0",
+    title:
+      "Как приготовить бисквитный рулет / Рецепт базового булочки / Легкий рулет",
+  },
+  {
+    src: "https://www.youtube.com/embed/JjMOtdhI7i4",
+    title:
+      "실패없이 &#39;더&#39; 완벽한 탕후루 만들기 (물엿x저울x온도계x) l a perfect tanghulu recipe l 서담(SEODAM)",
+  },
+];
