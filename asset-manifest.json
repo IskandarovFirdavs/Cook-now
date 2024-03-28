@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Cook-now/static/css/main.14e6ce9e.css",
-    "main.js": "/Cook-now/static/js/main.0c639543.js",
-    "index.html": "/Cook-now/index.html",
-    "main.14e6ce9e.css.map": "/Cook-now/static/css/main.14e6ce9e.css.map",
-    "main.0c639543.js.map": "/Cook-now/static/js/main.0c639543.js.map"
+    "main.css": "/git%20remote%20add%20origin%20https://github.com/IskandarovFirdavs/Cook_Now.git/static/css/main.14e6ce9e.css",
+    "main.js": "/git%20remote%20add%20origin%20https://github.com/IskandarovFirdavs/Cook_Now.git/static/js/main.b12e25d0.js",
+    "index.html": "/git%20remote%20add%20origin%20https://github.com/IskandarovFirdavs/Cook_Now.git/index.html",
+    "main.14e6ce9e.css.map": "/git%20remote%20add%20origin%20https://github.com/IskandarovFirdavs/Cook_Now.git/static/css/main.14e6ce9e.css.map",
+    "main.b12e25d0.js.map": "/git%20remote%20add%20origin%20https://github.com/IskandarovFirdavs/Cook_Now.git/static/js/main.b12e25d0.js.map"
   },
   "entrypoints": [
     "static/css/main.14e6ce9e.css",
-    "static/js/main.0c639543.js"
+    "static/js/main.b12e25d0.js"
   ]
 }
