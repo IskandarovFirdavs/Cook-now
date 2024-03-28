@@ -19,7 +19,6 @@ function App() {
         <Route path="/Gamburger-with-free" element={<Gamburger />}></Route>
         <Route path="/Sushi" element={<Sushi />}></Route>
       </Routes>
-      <Footer />
     </div>
   );
 }
