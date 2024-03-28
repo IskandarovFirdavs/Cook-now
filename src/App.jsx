@@ -6,8 +6,7 @@ import Slider from "./Components/Slider/Slider";
 import { Route, Routes } from "react-router-dom";
 import Sushi from "./Components/Food/Sushi";
 import { slidesData } from "./Components/Slider/SliderJs";
-import styled from "styled-components";
-import Footer from "./Components/Footer copy/Footer";
+
 
 function App() {
   return (
