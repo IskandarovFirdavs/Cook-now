@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Cook-now/static/css/main.14e6ce9e.css",
-    "main.js": "/Cook-now/static/js/main.af422ea2.js",
+    "main.js": "/Cook-now/static/js/main.0c639543.js",
     "index.html": "/Cook-now/index.html",
     "main.14e6ce9e.css.map": "/Cook-now/static/css/main.14e6ce9e.css.map",
-    "main.af422ea2.js.map": "/Cook-now/static/js/main.af422ea2.js.map"
+    "main.0c639543.js.map": "/Cook-now/static/js/main.0c639543.js.map"
   },
   "entrypoints": [
     "static/css/main.14e6ce9e.css",
-    "static/js/main.af422ea2.js"
+    "static/js/main.0c639543.js"
   ]
 }
